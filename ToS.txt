@@ -1,0 +1,68 @@
+Terms of Service
+Last updated: July 30, 2025
+
+Welcome to the DI-Toolbox (“Bot”). By installing, invoking, or otherwise using the Bot in your Discord server, you agree to these Terms of Service (“Terms”). If you do not agree, do not use the Bot.
+
+1. Acceptance of Terms
+- By adding or using the Bot you confirm that you:
+	- Are at least 13 years old (or have parental consent if younger, per Discord’s Terms of Service).
+	- Have read, understood, and agree to be bound by these Terms.
+
+2. Changes to Terms
+- We may modify or update these Terms at any time. We’ll post the revised Terms here with a new “Last updated” date.
+- Continued use of the Bot after changes constitutes your acceptance.
+
+3. Bot Access and Availability
+- The Bot is provided “as-is” and “as-available.”
+- We do not guarantee uninterrupted access or error-free operation.
+- We may suspend or terminate the Bot (or your access) at any time, without notice, if we observe anormal behaviour from your server.
+
+4. User Conduct & Prohibited Uses
+- When interacting with the Bot, you agree not to:
+	- Use the Bot for any unlawful purpose.
+	- Harass, abuse, or harm other users.
+	- Distribute viruses, malware, or malicious code.
+	- Attempt to reverse-engineer or modify the Bot’s code.
+	- Bypass rate limits or security mechanisms.
+	- Spam commands or use automation to abuse Bot functionality.
+
+5. User Content
+- You retain ownership of any messages or content you send to the Bot, but you grant us a perpetual, worldwide, royalty-free license to:
+	- Store, reproduce, and display your content to provide the Bot’s features.
+	- Analyze aggregated, anonymized data for improvement and analytics.
+
+6. Privacy & Data Collection
+- We collect only the data necessary to run the Bot.
+- We do not sell or share personal data with third parties, except as required by law.
+- For full details, refer to our Privacy Policy.
+
+7. Intellectual Property
+- The Bot, its code, commands are owned by us.
+- You may not copy, distribute, or create derivative works from the Bot code.
+- Graphical content such as in-game graphics, icons and names are the property of Blizzard Entertainment, Inc. (“Blizzard”). All Blizzard materials used within the Bot are used under fair use and no ownership claim is made by us.
+- We are not endorsed by, affiliated with, or sponsored by Blizzard.
+
+
+8. Disclaimers
+- No Warranty: The Bot is provided without any warranties, express or implied.
+- No Guarantee: We do not guarantee that the Bot will meet your specific needs or expectations.
+
+9. Limitation of Liability
+- To the fullest extent permitted by law, we and our officers, affiliates, and licensors will not be liable for:
+	- Any indirect, incidental, special, or consequential damages.
+	- Any loss of data, revenue, or profits arising from your use of (or inability to use) the Bot.
+
+10. Indemnification
+- You agree to indemnify, defend, and hold us harmless from any claims, damages, losses, liabilities, and expenses (including reasonable attorneys’ fees) arising out of:
+	- Your use or misuse of the Bot.
+	- Your violation of these Terms.
+
+11. Termination
+We may terminate or suspend your access to the Bot at any time, for any reason, with or without notice.
+Upon termination, you must cease all use of the Bot.
+
+12. Contact Us
+If you have questions or concerns about these Terms, please contact us:
+
+Email: di.toolbox.dc@gmail.com
+Discord: https://discord.gg/f6PYy8eSgb
