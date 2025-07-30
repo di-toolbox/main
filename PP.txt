@@ -1,0 +1,55 @@
+Privacy Policy
+Last updated: July 30, 2025
+
+Introduction
+Di-Toolbox (“we”, “us”, “our”) is committed to protecting the privacy of its users. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our Discord bot.
+
+Information We Collect
+	• Discord User Information
+		– User ID
+	• Usage Data
+		– Commands you invoke
+		– Timestamps of your interactions
+
+We do NOT collect or store:
+	• Message contents beyond what’s necessary to process a command in real time
+	• Voice or video data
+	• Personal data such as real names, email addresses, payment information, or IP addresses
+
+How We Use Your Information
+	• To provide and maintain the Bot’s features
+	• To analyze aggregated, anonymized usage trends for improvement
+	• To comply with legal obligations or respond to lawful requests
+
+Data Storage and Retention
+	• All data is stored in a protected database with industry-standard security measures.
+	• We retain server settings and usage logs for as long as the Bot remains active on your server or until you request deletion.
+	• We do NOT retain message contents after a command is processed.
+
+Sharing Your Information
+	• We do not sell, rent, or trade your personal data to third parties.
+	• We may share data when required by law or to protect our rights (e.g., court orders, subpoenas).
+
+Data Deletion & “Right to Be Forgotten”
+You may request deletion of all data we hold about you or your server at any time by contacting us via Discord:
+	• Discord invite: https://discord.gg/f6PYy8eSgb
+Upon request, we will erase your data from our primary and backup systems within 30 days, unless retention is required by law.
+
+Security
+	• We implement reasonable administrative, technical, and physical safeguards to protect your information.
+	• No method of transmission over the Internet or electronic storage is 100% secure—use of the Bot is at your own risk.
+
+Children’s Privacy
+	• Our Bot is not directed to children under 13.
+	• We do not knowingly collect personal data from anyone under 13.
+	• If you are a parent or guardian and believe we have collected data on a child under 13, please contact us for deletion.
+
+Third-Party Links & Services
+	• The Bot may use or link to third-party services (e.g., bot documentations).
+	• These services have their own privacy policies and are not covered by this document.
+
+Changes to This Policy
+	• We may update this Privacy Policy at any time. We will post the new “Last updated” date here. Continued use of the Bot after changes constitutes acceptance.
+
+Contact Us
+	• If you have any questions or requests regarding this Privacy Policy, please reach out via Discord at https://discord.gg/f6PYy8eSgb
